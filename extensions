@@ -33,6 +33,11 @@ Version: 6.0.r0     خاص باجهزة نوفالر
 Status: Plg Nov
 Airnet-fnc='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/novaler/airnet-fnc/airnet-fnc.sh'
 
+Package: Alkuds
+Version: 1.97.alkudsipaudio     اضافة الصوتيات على قنوات السات
+Status: Plg Aud
+Alkuds='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/alkuds/alkuds.sh'
+
 Package: Altsoftcammanager
 Version: 2.0     ادارة الكامات
 Status: Plg Enc
@@ -49,9 +54,9 @@ Status: Plg Qur
 Ansite='https://gitlab.com/eliesat/extensions/-/raw/main/ansite/ansite.sh'
 
 Package: ArabicSavior
-Version: 2.5     المنقذ العربي
+Version: 2.8.mnasr     المنقذ العربي
 Status: Plg Uti
-ArabicSavior='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/arabicsavior/arabicsavior.sh'
+ArabicSavior-2='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/arabicsavior-1/arabicsavior.sh'
 
 Package: Arabic-support
 Version: shabah.net     atv hdf pli egami obh vix تعريب قوائم الصورة
@@ -92,6 +97,11 @@ Package: Auto-dcw-key-add
 Version: 1.0.9     اضافة مفتاح بيس بملف السوفتكام
 Status: Plg Enc
 Auto-dcw-key-add='https://gitlab.com/eliesat/extensions/-/raw/main/dcw-key-add/dcw-key-add.sh'
+
+Package: AutoSub
+Version:  1.0     ترجمة الى اللغة العربية
+Status: Plg Sub
+AutoSub='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/autosub/autosub.sh'
 
 Package: Azkar
 Version: 1.0     اذكار المسلم م. الصفطي
@@ -1298,11 +1308,6 @@ Version: 1.80     مشغل اي بي تي في
 Status: Plg Ipt
 Xklass='https://gitlab.com/eliesat/extensions/-/raw/main/xklass/xklass.sh'
 
-Package: Xklass
-Version: 1.96.alkudsipaudio     اضافة الصوتيات على قنوات السات
-Status: Plg Aud
-Xklass-2='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/xklassipaudio/xklassipaudio.sh'
-
 Package: xmlupdate
 Version: 6.8     تحديث ملف الترددات
 Status: Plg Sys
@@ -1371,7 +1376,29 @@ Zouplayer='https://gitlab.com/eliesat/extensions/-/raw/main/zouplayer/zouplayer.
 Package: test
 Version: 0.0     
 Status: 
-test='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/xdreamy/xdreamy.sh'
+test='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/xdreamy/xdreamy.sh'eamy/xdreamy.sh'
+
+
+y.sh'
+'
+'
+'
+'
+'
+'
+'
+'
+
+'
+'
+'
+'
+uplayer.sh'
+
+Package: test
+Version: 0.0     
+Status: 
+test='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/skins/xdreamy/xdreamy.sh'eamy/xdreamy.sh'
 
 
 y.sh'
