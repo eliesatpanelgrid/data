@@ -1,5 +1,6 @@
 02.10.2026
 ============
+○ Estalker 1.52
 ○ Bouquetmakerxtream 1.78
 ○ ArabicSavior 2.8.mnasr
 ○ AutoSub 1.0
