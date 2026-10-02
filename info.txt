@@ -1,5 +1,6 @@
 02.10.2026
 ============
+○ AudioDelayPatch 1.3
 ○ Alkuds 1.97.alkudsipaudio
 ○ Oscam-Levi45 11968.emu.r803
 ○ Estalker 1.52
