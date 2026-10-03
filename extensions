@@ -88,10 +88,10 @@ Version: 1.2.4.r4     اضافة الصوتيات على قنوات السات
 Status: Plg Aud
 AudioShift='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/audioshift/audioshift.sh'
 
-Package: AudioDelayPatch
+Package: AudioSelectionPatcher
 Version: 1.3     تايم شيفت
 Status: Plg Aud
-AudioDelayPatch='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/audioselectionpatcher/audioselectionpatcher.sh'
+AudioSelectionPatcher='https://dreambox4u.com/eliesat/oe2.0/addons/audioselectionpatcher/audioselectionpatcher.sh'
 
 Package: Autobiss
 Version: 3.0     باحث مفاتيح بيسس في الوقت الفعلي وحاقن لملف السوفتكام
@@ -1437,6 +1437,13 @@ y.sh'
 '
 '
 
+'
+
+'
+'
+'
+'
+'
 '
 
 '

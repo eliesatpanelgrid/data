@@ -1,5 +1,6 @@
 03.10.2026
 ============
+○ AudioSelectionPatcher 1.3
 ○ Gtiptvplayerpro 1.2.0
 
 02.10.2026
