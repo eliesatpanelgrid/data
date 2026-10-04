@@ -1,5 +1,12 @@
 04.10.2026
 ============
+•Mohamed_os
+○ gosatplus-oscam 11968-emu-r802
+○ oscam 11968emu-r802
+○ powercam-oscam 11968emu-r802
+○ supcam-oscam 11968emu-r802
+○ ultracam-oscam 11968emu-r802
+
 ○ MyHits 1.4
 
 03.10.2026
@@ -262,18 +269,9 @@
 ○ ciplushelper 6.1
 ○ hamzamovie 10.0
 
-29.07.2026
-============
 
-○ skin fury ai fhd 8.1
 
-27.07.2026
-============
-
-○ Mohamed_os
-• gosatplus-oscam-11966-emu-r802
-• oscam-11966-emu-r802
-• powercam-oscam-11966-emu-r802
+66-emu-r802
 • supcam-oscam-11966-emu-r802
 • ultracam-oscam-11966-emu-r802
 
