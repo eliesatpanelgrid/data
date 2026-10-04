@@ -774,7 +774,7 @@ Status: Plg Enc
 Mycam='https://gitlab.com/eliesat/extensions/-/raw/main/mycam/mycam.sh'
 
 Package: MyHits 
-Version: 1.4     اغاني لمعظم مطربين العرب
+Version: 1.4     py3.13 3.14 اغاني لمعظم مطربين العرب
 Status: Plg Aud
 MyHits='https://dreambox4u.com/eliesat/oe2.0/addons/myhits/myhits.sh'
 
@@ -1244,9 +1244,9 @@ Status: Plg Nov
 Ultracam='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/novaler/ultracam/ultracam.sh'
 
 Package: UltraStalker
-Version: 9.2.1     مشغل بورتلات اي بي تي في
+Version: 9.3.0     py3.11 3.12 3.13 3.14 3.15 مشغل بورتلات اي بي تي في
 Status: Plg Ipt
-UltraStalker='https://raw.githubusercontent.com/eliesatpanelgrid/oe2.0/main/addons/ultrastalker/ultrastalker.sh'
+UltraStalker='https://dreambox4u.com/eliesat/oe2.0/addons/ultrastalker/ultrastalker.sh'
 
 Package: Vavoo
 Version: 1.88     اي بي تي في مجاني
